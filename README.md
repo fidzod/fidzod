@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am a self-taught programmer and recently graduated from the University of Manchester, UK with a degree in Philosophy & RS.
+I am a self-taught programmer and graduate this year from the University of Manchester, UK with a degree in Philosophy & RS.
 
 I have always been passionate about computers, and I have been programming since I was 10. I am proficient in **Typescript**, **Odin** and **Python**.
 
