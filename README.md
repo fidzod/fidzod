@@ -1,6 +1,6 @@
 ## About Me
 
-[LinkedIn](www.linkedin.com/in/toby-jordan) | [Website](tobyjordan.com) | [Blog](tobyjordan.com/blog) | [Email Me](mailto:mail@tobyjordan.com)
+[LinkedIn](https://www.linkedin.com/in/toby-jordan) | [Website](https://tobyjordan.com) | [Blog](https://tobyjordan.com/blog) | [Email Me](mailto:mail@tobyjordan.com)
 
 I started programming in Python when I was 10, at first making drawings with
 Turtle and then simple games with Pygame, and I've been passionate about computers
