@@ -34,3 +34,6 @@ IO, privilege levels and traps, a bare-metal OS, a filesystem, and a shell.
 - [Building Lemuria: A Bleeding-Edge Stack for Deployment to the Edge](https://tobyjordan.com/blog/lemuria-edgeless-full-stack)
 - [Types as Propositions, Proofs as Programs: Implementing STLC and PCF](https://tobyjordan.com/blog/typed-lambda-calculus-curry-howard)
 - [Building a Lambda Calculus Interpreter in Odin](https://tobyjordan.com/blog/lambda-calculus-interpreter-in-odin)
+
+#### ⚙️ Stats
+![Top Languages](https://ghstats.dev/api/langs?username=fidzod&theme=light&layout=horizontal_list)
