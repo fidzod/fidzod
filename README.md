@@ -14,6 +14,14 @@ I build full-stack apps in **TypeScript**, with **Svelte 5** and **SvelteKit**,
 which I designed and built solo, and deployed using **Cloudflare Workers**,
 **Pages**, and **R2**, with **Turso** for distributed **SQLite**.
 
+I also built [Camel](https://github.com/fidzod/camel), a framework in
+**Python** that transpiles a single Python file into a self-contained, vanilla
+**JavaScript** single-page app: it compiles down to a JSON intermediate
+representation of typed "atoms", and a hand-written JS runtime interprets that
+IR, selectively re-rendering only the DOM nodes affected by a state change. v5
+supports hash routing, reactive state, list rendering, input binding, and API
+integration via fetch/post.
+
 Alongside my full stack work I have been diving into Type Theory and Type
 Systems; recently I implemented
 [interpreters](https://github.com/fidzod/lambda-calculus) for the untyped lambda
@@ -31,6 +39,6 @@ IO, privilege levels and traps, a bare-metal OS, a filesystem, and a shell.
 
 #### 📕 Latest blog posts
 
-- [Building Lemuria: A Bleeding-Edge Stack for Deployment to the Edge](https://tobyjordan.com/blog/lemuria-edgeless-full-stack)
+- [What I Learned Building With a Modern Stack and Shipping Serverless](https://tobyjordan.com/blog/lemuria-edgeless-full-stack)
 - [Types as Propositions, Proofs as Programs: Implementing STLC and PCF](https://tobyjordan.com/blog/typed-lambda-calculus-curry-howard)
 - [Building a Lambda Calculus Interpreter in Odin](https://tobyjordan.com/blog/lambda-calculus-interpreter-in-odin)
