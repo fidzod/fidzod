@@ -8,11 +8,11 @@ ever since. I'm particularly interested in how things work under the hood,
 beneath abstraction layers, and this meant I spent a lot of time as a teenager
 reading ISA manuals and implementing virtual machines in **Python** and **C**.
 
-I build full-stack apps in **TypeScript**, with **Svelte 5**
-and **SvelteKit**, **Hono**, **Drizzle**, and **SQLite**. I recently
-deployed [Lemuria](/blog/lemuria-edgeless-full-stack), a social app
-which I designed and built solo, and deployed using **Cloudflare Workers**, **Pages**,
-and **R2**, with **Turso** for distributed **SQLite**.
+I build full-stack apps in **TypeScript**, with **Svelte 5** and **SvelteKit**,
+**Hono**, **Drizzle**, and **SQLite**. I recently deployed
+[Lemuria](https://tobyjordan.com/blog/lemuria-edgeless-full-stack), a social app
+which I designed and built solo, and deployed using **Cloudflare Workers**,
+**Pages**, and **R2**, with **Turso** for distributed **SQLite**.
 
 Alongside my full stack work I have been diving into Type Theory and Type
 Systems; recently I implemented
@@ -20,7 +20,7 @@ Systems; recently I implemented
 calculus, simply typed lambda calculus (STLC), and Programming Computable
 Functions (PCF) from first principles in **Odin**. I documented these
 implementations and the theory involved in a series of [blog
-posts](/blog/lambda-calculus-interpreter-in-odin).
+posts](https://tobyjordan.com/blog/lambda-calculus-interpreter-in-odin).
 
 At the moment I am building [Bliss](https://github.com/fidzod/BlissVM) in **Rust**:
 A complete virtual machine system for a 32-bit RISC-inspired
